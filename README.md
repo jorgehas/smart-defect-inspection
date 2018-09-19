@@ -1,5 +1,5 @@
 ## Defect inspection
-###Sample output
+### Sample output
 
 
 <p align="center">
